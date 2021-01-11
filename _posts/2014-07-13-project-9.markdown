@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 9
+date: 2014-07-15
+img: texter.png
+alt: image-alt
+project-date: April 2014
+client: Texter.cl
+category: Fundador - Desarrollador - Escritor
+description: Soy unos de los creadores de Texter.cl una plataforma que busca difundir crónicas, cuentos y ensayos divertidos y cortos para que puedan ser leídos en distintas partes
+---

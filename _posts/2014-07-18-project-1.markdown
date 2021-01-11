@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: plp.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Porlaputa.com
+category: Director Creativo - Fundador
+description: Fundador y administrador de la página de humor gráfico más reconocida de Chile. Logró posicionarse entre las 25 páginas más visitadas por los chilenos en el 2010 y fue pionera en la cultura de los Memes. Hasta hoy en día sigue vigente con más de 5.000 visitas únicas al día.
 ---
